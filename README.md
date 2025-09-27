@@ -53,7 +53,7 @@ Understanding gender-based differences in ad engagement can help marketers optim
 
 ## Visualizations
 Example plot of ad completion rates by gender:  
-![Ad Completion Rates](images/ad_completion.png)  
+![Ad Completion Rates](images/gender.png)  
 
 ---
 
